@@ -10,3 +10,7 @@
 - Markdown All in One
 - Markdown Preview GitHub Styling
 - Markdown Preview Enhanced
+
+## github supporting
+
+- GitLens — Git supercharged
